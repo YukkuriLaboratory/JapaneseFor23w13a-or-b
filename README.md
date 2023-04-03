@@ -1,4 +1,4 @@
-# Japanese Translation for Minecraft Java Edition 23w13a or b
+# Japanese Translation for Minecraft Java Edition 23w13a or b - [ダウンロードはこちら](https://github.com/YukkuriLaboratory/JapaneseFor23w13a-or-b/releases/latest)
 
 2023年に公開されたエイプリルフールバージョン【Java Edition 23w13a or b】の簡易日本語化リソースパックです
 
